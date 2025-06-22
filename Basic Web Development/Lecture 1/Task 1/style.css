@@ -1,0 +1,28 @@
+body{
+    background-color:darkgoldenrod;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+h1{
+    color: navajowhite;
+    text-align: center;
+}
+
+.box{
+    padding: 20px;
+    background-color: lightgoldenrodyellow;
+    border: 2px solid black;
+    margin-top: 20px;
+    cursor:e-resize;
+
+}
+
+#resetBtn{
+    margin-top: 20px;
+}
+
+.highlight{
+    background-color: lightsteelblue;
+    font-weight: bold;
+}

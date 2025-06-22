@@ -1,0 +1,29 @@
+body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background-color:lightblue;
+    }
+
+
+    h1{
+        text-align: center;
+    }
+ 
+    button {
+      padding: 5px 10px;
+      margin-left: 22px;
+    }
+
+    li {
+      margin-top: 20px;
+      padding: 20px;
+      background-color: white;
+      align-items: center;
+    }
+
+    .delete-btn {
+      background-color: red;
+      color: white;
+      padding: 5px 10px;
+      cursor: pointer;
+    } 

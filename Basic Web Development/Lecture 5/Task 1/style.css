@@ -1,0 +1,20 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 40px;
+  background-color: #f9f9f9;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: skyblue;
+  color: white;
+  cursor: pointer;
+}
+
+#message {
+  margin-top: 40px;
+  font-size: 20px;
+  color: green;
+}

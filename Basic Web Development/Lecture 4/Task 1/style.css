@@ -1,0 +1,62 @@
+ body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f4f4f4;
+      padding: 30px;
+      max-width: 600px;
+      margin: auto;
+    }
+
+    h2 {
+      text-align: center;
+      color: #333;
+    }
+
+    .question {
+      background: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      box-shadow: black;
+    }
+
+    .question p {
+      font-size: 18px;
+      font-weight: bold;
+    }
+
+    .question button {
+      display: block;
+      width: 100%;
+      padding: 10px;
+      margin: 8px;
+      background-color: #e0e0e0;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+
+    .feedback {
+      margin-top: 10px;
+      padding: 10px;
+      border-radius: 6px;
+      font-weight: bold;
+      font-size: 16px;
+    }
+
+    .correct {
+      background-color: #d4edda;
+      color: #155724;
+    }
+
+    .wrong {
+      background-color: #f8d7da;
+      color: #721c24;
+    }
+
+    #result {
+      text-align: center;
+      font-size: 20px;
+      font-weight: bold;
+      padding-top: 20px;
+    }

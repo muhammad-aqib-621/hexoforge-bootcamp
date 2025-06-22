@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 80px;
+  background-color: white;
+}
+
+h1 {
+  color:lightskyblue;
+  font-size: 36px;
+  margin-bottom: 30px;
+}
+
+#countdown {
+  font-size: 24px;
+  color: darkgoldenrod;
+  margin-bottom: 20px;
+}
+
+#reminder {
+  font-size: 22px;
+  background-color: white;
+  padding: 25px;
+  display: inline-block;
+  border: 2px solid lightgray;
+}

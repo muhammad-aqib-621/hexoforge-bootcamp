@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 60px;
+  background-color:white;
+}
+
+button {
+  padding: 10px;
+  font-size: 20px;
+  background-color:rgb(26, 189, 26);
+  color: white;
+  cursor: pointer;
+}
+
+#timer {
+  margin-top: 20px;
+  font-size: 18px;
+  color: black;
+}
+
+ #message {
+  margin-top: 20px;
+  font-size: 18px;
+  color: black;
+}
