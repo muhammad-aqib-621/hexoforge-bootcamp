@@ -1,0 +1,32 @@
+
+body {
+  font-family: Arial;
+  text-align: center;
+  padding: 20px;
+  background-color:lightgrey;
+}
+textarea {
+  width: 80%;
+  height: 100px;
+  margin: 10px;
+}
+.buttons button {
+  margin: 5px;
+  padding: 10px;
+}
+.text-output {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+
+.bold {
+  font-weight: bold;
+}
+.italic {
+  font-style: italic;
+}
+.underline {
+  text-decoration: underline;
+}
