@@ -1,0 +1,53 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: lightgray;
+  padding: 20px;
+}
+
+.container {
+  max-width: 400px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: black;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: black;
+}
+
+label span {
+  color: red;
+}
+
+
+input,select {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid gray;
+}
+
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: green;
+  color: white;
+  font-size: 20x;
+  cursor: pointer;
+}
+
